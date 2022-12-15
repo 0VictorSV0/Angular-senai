@@ -1,0 +1,19 @@
+{
+    "login": [
+      {
+        "id": 1,
+        "usuario": "Vitória Pinho",
+        "senha": "admin"
+      },
+      {
+        "id": 3,
+        "usuario": "Maria da Silva",
+        "senha": "admin123"
+      },
+      {
+        "usuario": "Claudia Baroni",
+        "senha": "abacaxi",
+        "id": 4
+      }
+    ]
+  }
